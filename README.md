@@ -1,0 +1,2 @@
+# autostart
+program I autostart
